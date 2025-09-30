@@ -36,4 +36,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minh3132004&" alt="minh3132004" /></p>
 
-![](https://komarev.com/ghpvc/?username=Minh3132004)
