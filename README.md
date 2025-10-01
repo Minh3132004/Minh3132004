@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/Minh3132004?logo=github&style=for-t
 src="https://img.shields.io/twitter/follow/Minh3132004?logo=twitter&style=for-the-badge&color=22c55e&labelColor=7c2d12"
 /></a>
 
-<b>My GitHub Stats</b> 
+<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Minh3132004"><img src="https://github-readme-stats.vercel.app/api?username=Minh3132004&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=facc15&icon_color=22c55e&bg_color=7c2d12&hide_border=true&show_icons=true" alt="Minh3132004's GitHub stats" /></a>
 
