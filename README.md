@@ -31,3 +31,5 @@ src="https://img.shields.io/twitter/follow/Minh3132004?logo=twitter&style=for-th
 <a href="http://www.github.com/Minh3132004"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Minh3132004&stroke=facc15&background=7c2d12&ring=10b981&fire=10b981&currStreakNum=facc15&currStreakLabel=10b981&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
 <a href="https://github.com/Minh3132004" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minh3132004&langs_count=10&title_color=10b981&text_color=facc15&icon_color=22c55e&bg_color=7c2d12&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+![](https://komarev.com/ghpvc/?username=Minh3132004)
