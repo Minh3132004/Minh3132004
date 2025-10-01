@@ -23,7 +23,6 @@ Web Developer
 src="https://img.shields.io/github/followers/Minh3132004?logo=github&style=for-the-badge&color=22c55e&labelColor=7c2d12" /></a><a href="https://www.x.com/Minh3132004" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Minh3132004?logo=twitter&style=for-the-badge&color=22c55e&labelColor=7c2d12"
 /></a>
-### Badges
 
 <b>My GitHub Stats</b>
 
